@@ -187,7 +187,7 @@ input[type = "date"]{
 	font-size: 1rem;
 	border-radius: 7px;
 }
-input[type = "submit"], input[type = "reset"]{
+button[type = "submit"], button[type = "reset"]{
 	background-color:#8f4945;
 	color: white;
 	padding: 5px;
@@ -198,7 +198,7 @@ input[type = "submit"], input[type = "reset"]{
 	width: 400px;
 	
 }
-input[type = "reset"]{
+button[type = "reset"]{
 	float:right;
 }
 .foot{
